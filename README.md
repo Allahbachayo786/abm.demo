@@ -17,7 +17,7 @@ An end-to-end Data Science project using FIFA World Cup 2026 player data to pred
 5. **Model Comparison**: MAE, MSE, R2 Score
 
 ## 🛠️ Tech Stack
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow/Keras` `Jupyter Notebook`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow/Keras` `Google colab Notebook`
 
 ## 📈 Results
 Compared Random Forest vs Neural Network. 
